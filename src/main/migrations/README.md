@@ -1,0 +1,1 @@
+The setting 'migrationsSource' points per convention to this directory.
