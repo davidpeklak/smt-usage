@@ -1,1 +1,1 @@
-addSbtPlugin("com.github.davidpeklak" % "smt" % "0.1-SNAPSHOT")
+addSbtPlugin("com.github.davidpeklak" % "smt" % "0.1")
